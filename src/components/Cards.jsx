@@ -13,7 +13,7 @@ const cards = [
   {
     id: 2,
     title: 'Especialista en Patologías',
-    description: 'Enfermedades o dolencias pueden dificultar el llevar una alimentación sana. En Nutribert podemos ayudarte.',
+    description: 'Enfermedades y dolencias pueden dificultar el llevar una alimentación sana. En Nutribert podemos ayudarte.',
     imagenlink: '/patologias.png',
     alt: 'patologias',
   },
