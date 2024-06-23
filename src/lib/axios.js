@@ -8,7 +8,7 @@ const axios = Axios.create({
         
     },
     
-    withCredentials: false,
+    withCredentials: true,
     withXSRFToken: true
 })
 
