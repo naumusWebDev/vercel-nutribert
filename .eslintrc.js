@@ -29,7 +29,7 @@ module.exports = {
         },
     },
     rules: {
-        'import/prefer-default-export': 0,
+       'import/prefer-default-export': 0,
         'no-console': 'warn',
         'no-nested-ternary': 0,
         'no-underscore-dangle': 0,
@@ -47,5 +47,8 @@ module.exports = {
         'react/react-in-jsx-scope': 0,
         'linebreak-style': ['error', 'unix'],
         semi: ['error', 'never'],
+        "linebreak-style": "off",
+        "semi": "off",
+        "no-irregular-whitespace": "off"
     },
 }
