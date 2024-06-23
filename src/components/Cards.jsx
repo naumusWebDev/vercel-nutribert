@@ -20,7 +20,7 @@ const cards = [
   {
     id: 3,
     title: 'Asesoramiento Nutricional',
-    description: 'Aprende a comer bien para alcanzar no sólo tu peso ideal si o también el equilibrio en tu organismo.',
+    description: 'Aprende a comer bien y alcanzar no sólo tu peso ideal si o también el equilibrio en tu organismo.',
     imagenlink: '/asesoramiento.png',
     alt: 'asesoramiento',
   },
