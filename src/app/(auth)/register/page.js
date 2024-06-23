@@ -114,7 +114,7 @@ const Page = () => {
                     Ya registrado?
                 </Link>
 
-                <Button className="ml-3 bg-primary hover:bg-primary-dark text-white py-2 px-4 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary">Regítrarse</Button>
+                <Button className="ml-3 bg-primary hover:bg-primary-dark text-white py-2 px-4 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary">Regístrarse</Button>
             </div>
         </form>
     )
